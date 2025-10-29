@@ -10,6 +10,3 @@ cd server && npm install && cd ..
 npm run start
 ```
 
-- Frontend: http://localhost:5173
-- Server: http://localhost:4000
-- Demo login: Click **Demo Login** (email/password pre-filled on server)
